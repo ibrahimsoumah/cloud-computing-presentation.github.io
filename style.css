@@ -1,0 +1,49 @@
+/* body entier */
+*{
+margin: 0;
+padding: 0;
+}
+body{
+background-color: #c7c9c5;
+}
+
+            /* le Header */
+
+header{
+background: #194e77;
+height: auto;
+width: auto;
+}
+
+.image_cloud{
+height:300px;
+width: 100;
+}
+
+.texte{
+font-size: 5.5em;
+font-family: 'Oswald', sans-serif;
+float: right;
+margin-top: 150px;
+}
+
+    /*  presentation  */
+    .presentation{
+    margin-top: 30px;
+    font-size: 40px;
+    right:100px;
+    }
+
+    figure{
+    margin: 30px;
+    }
+
+    .var1 , .var2 , .var3 , .var4 {
+    margin: 30px;
+    }
+
+    .texte1 , .texte2 , .texte3 , .texte4{
+    margin: 30px;
+    margin-right: 40px;
+    font-size: 30px;
+    }
